@@ -18,7 +18,7 @@ token_headers = {
 def register_api():
     payload = {
         'name': 'Md Sharif Foysal Shoron',
-        'email': 'shoron@gmail.com',
+        'email': 'mdshariffoysalshoron@gmail.com',
         'username': 'shoron',
         'password': 'test100'
     }
